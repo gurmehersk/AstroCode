@@ -1,1 +1,1 @@
-
+A general rule of thumb would be to have Astroplan and Skyfield packages all downloaded on python before you start any of these codes
